@@ -1,6 +1,3 @@
 {
-    "blender": {
-        "style": "flat",
-        "logo": "blender"
-    }
+    "name": "blender"
 }
