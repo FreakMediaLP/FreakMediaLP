@@ -1,3 +1,7 @@
 {
-    "name": "blender"
+    "v1": "Blender",
+    "v2": {
+        "name": "Blender",
+        "icon": "blender"
+    }
 }
