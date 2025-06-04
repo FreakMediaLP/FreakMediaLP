@@ -8,4 +8,5 @@
 [![Static Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/FreakMediaLP/)
 
 
-![Static Badge](https://img.shields.io/badge/Blender-e37200?style=flat&logo=blender&logoColor=white)
+![Endpoint Badge](https://img.shields.io/endpoint?url=https://api.freakmedialp.de/skills?skill=blender)
+![Endpoint Badge](https://img.shields.io/endpoint?url=https://api.freakmedialp.de/skills?skill=python)
